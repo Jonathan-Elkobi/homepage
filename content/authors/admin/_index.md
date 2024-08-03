@@ -3,7 +3,7 @@
 title: Jonathan Elkobi
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yonathan Elkobi
 
 # Full name (for SEO)
 first_name: Jonathan
@@ -17,14 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming Yale Political Science PhD
+role: PhD Student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: GPS, UC San Diego
+  - name: Department of Political Science, Yale
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming PhD Student for the Department of Political Science at Yale. I received my Masters in Chinese Political Economy at School of Global Policy and Strategy, UC San Diego, and my BA in the joint program for Business administration and East Asia Studies at the Hebrew University of Jerusalem. My research focuses on developing text-as-data tools, espcially LLMs, to measure political constructs in Political Communications and Political Elites. My substantive interest lies in the intersection of elites politics and finance, espcially in the Chinese context. In my master thesis, I developed Novelty Probing, a new method for measuring the policy priorities of political elites across topics, and their influence on the same topics. This framework quantifies the novelty and influence of a leader’s ideas by utilizing semantic similarity between sentence embeddings to assess the deviation of their speeches from official propaganda, constructing indices for a leader’s novelty, and influence across policy topics. The Novelty and Influence indices are combined to create the Dominance Index, a metric for a leader’s ability to implement their novelty into policymaking.
+bio: I am a first-year PhD student in the Department of Political Science at Yale. I received my Master's in Chinese Political Economy from the School of Global Policy and Strategy at UC San Diego, and my BA from the joint program in Business Administration and East Asian Studies at the Hebrew University of Jerusalem. My research focuses on developing computational methods, mainly using Large Language Models (LLMs) and Natural Language Processing (NLP), to measure political constructs in political communication and elite politics. My goal is to develop methods for political scientists to better understand political leaders' influence over policy-making, predominantly in authoritarian regimes. My substantive interest lies in the intersection of elite politics and financial markets, especially in the Chinese context. In my master thesis, I developed Novelty Probing, a new method for measuring the policy priorities of political elites across topics, and their influence on the same topics. This framework quantifies the novelty and influence of a leader’s ideas by utilizing semantic similarity between sentence embeddings to assess the deviation of their speeches from official propaganda, constructing indices for a leader’s novelty, and influence across policy topics. The Novelty and Influence indices are combined to create the Dominance Index, a metric for a leader’s ability to implement their novelty into policymaking.
 
 
 # Interests to show in About widget
@@ -37,14 +37,14 @@ interests:
   - Chinese Political Economy
   - Elite Politics 
     <br>
-    and Policy Preferences
+    and Political Communication
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Political Science
       institution: Yale University
-      year: 2024-2029 (expected)
+      year: 2024-2030 (expected)
     - course: Master in Chinese Economics and Political Affairs
       institution:  School of Global Policy and Strategy, UC San Diego
       year: 2022-2024
@@ -122,4 +122,4 @@ social:
 highlight_name: true
 ---
 
- I am an incoming PhD Student for the Department of Political Science at Yale. I am currently finishing my Masters in Chinese Political Economy at School of Global Policy and Strategy, UC San Diego. I received my BA in the joint program for Business administration and East Asia Studies at the Hebrew University of Jerusalem. My research focuses on developing text-as-data tools, espcially LLMs, to measure political constructs in Political Communications and Political Elites. My substantive interest lies in the intersection of elites politics and finance, espcially in the Chinese context. 
+I am a first-year PhD student in the Department of Political Science at Yale. I received my Master's in Chinese Political Economy from the School of Global Policy and Strategy at UC San Diego, and my BA from the joint program in Business Administration and East Asian Studies at the Hebrew University of Jerusalem. My research focuses on developing computational methods, mainly using Large Language Models (LLMs) and Natural Language Processing (NLP), to measure political constructs in political communication and elite politics. My goal is to develop methods for political scientists to better understand political leaders' influence over policy-making, predominantly in authoritarian regimes. My substantive interest lies in the intersection of elite politics and financial markets, especially in the Chinese context.
