@@ -14,11 +14,125 @@ author_profile: true
   gtag('config', 'G-JXH49J0PEN');
 </script> 
 
-<h2 style="font-size:26px; ">Publications</h2>
+<h2 style="font-size:26px; ">Working Papers</h2>
 
 <p>
 <p>
-<h3 style="font-size:22px; ">Computational Social Science</h2>
+
+
+<p>
+<p>
+
+How Locally Embedded City Leaders Drive Low Carbon Transition in China 
+<i>Under Review</i>
+<details>
+  <summary><i>Abstract</i></summary>
+Effective climate action depends not only on technological effects and policy innovations but also on the leadership driving their implementation. Despite extensive research on solutions to mitigate climate change and reduce carbon emissions, progress often stalls at the implementation stage, prompting a crucial question: Which leaders are best equipped to deliver meaningful climate outcomes? Here, I show that political leaders with local embeddedness demonstrate advantages in advancing climate action. Analyzing two decades of city-level data in China, I leverage the central government’s leadership assignment system to reveal that cities led by embedded bureaucrats exhibit larger progress in low-carbon transitions. My findings indicate that such leaders are 1.5 times more likely to prioritize climate issues in public discourse, implement twice as strong emissions-reduction policies, and lead to significant reductions in air pollution and CO2 emissions. I distinguish between two forms of embeddedness: emotional and professional. Emotional embeddedness, driven by personal connections to the locality, emerges as the primary driver of enhanced climate action, shifting leaders' preferences towards sustainable policies. In contrast, professional embeddedness, characterized by local administrative experience, plays a more modest role.This paper calls attention to the potential of appointing embedded leaders to accelerate progress toward carbon neutrality and sustainable development. Integrating this practice into the appointment strategies for government bureaucrats can strengthen global efforts to combat climate change.
+</details>
+
+
+<p>
+<p>
+
+
+<p>
+<p>
+
+The End of Fiscal Autonomy 
+Rising Local Debt and Fiscal Constraints in Chinese Provinces 
+<i> with <b> Victor Shih </b>  Under Review</i>
+<details>
+  <summary><i>Abstract</i></summary>
+The ideological relaxation and fiscal autonomy of the 1980s initiated over three decades of bold economic reform in China, driving sustained growth. However, an analysis of over 50,000 bond issuance records reveals a sharp increase in local debt, which has progressively constrained policy choices at the local level. Our cross-sectional and dynamic examination demonstrates that China's once-nimble developmentalism has largely transitioned into debt-driven crisis management across most provinces. In 27 provinces, high debt servicing costs for bond obligations relative to local revenue have left authorities heavily dependent on central government transfers and new bond issuance to sustain basic governance. This reliance has significantly eroded the fiscal autonomy enjoyed in previous decades. Furthermore, we provide evidence that these growing fiscal constraints have hindered the capacity of high-debt provinces to pursue policy innovation, even in critical areas such as carbon neutrality. Our findings highlight the profound shift in China's local governance from local innovation to high dependence on the center, with significant implications for future economic and policy trajectories.
+
+</details>
+
+
+
+<p>
+<p>
+<p>
+<p>
+  
+Novelty Probing
+Measurement of Xi Jinping’s policy preferences and political influence by comparing the autocrat’s speeches with official state reports  
+<i> Presntations at APSA 24, MPSA 24, SPSA 24 </i>
+<details>
+  <summary><i>Abstract</i></summary>
+
+The leader’s preferences shape policy outcomes, however, the lack of accurate tools to measure the leader’s priorities, especially among autocrats, leads to overlooking these preferences as part of elite decision-making processes. To solve that, this paper introduces Novelty Probing, a new method for measuring the policy priorities of political elites across topics, and their influence on the same topics. This framework quantifies the novelty and influence of a leader’s ideas by utilizing semantic similarity between sentence embeddings to assess the deviation of their speeches from official propaganda, constructing indices for a leader’s novelty, and influence across policy topics. The Novelty and Influence indices are combined to create the Dominance Index, a metric for a leader’s ability to implement their novelty into policymaking. The paper exemplifies the method in the field of Chinese elite politics, by applying the Novelty Probing framework to Xi Jinping, using a corpus of Xi’s speeches and 179823 China’s State-Councilissued communications. Hence, this study measures Xi’s policy novelty, level of influence, and dominance over China. To represent the usage of the measures, the paper provides five empirical results to study patterns of Chinese elite politics. First, Novelty Probing is used for a mini case study of the effect of Xi on Health policy, by highlighting key speeches, and policy documents affected by these speeches. Second, the method is employed to reveal temporal patterns in Chinese elite politics. Third, Novelty Probing constructs a quantitative case for comparison Between Xi and Li Keqiang, the primer of China, and indices are used to study Xi’s consolidation of power after the 19th Party Congress. Fourth, the author conducts audience analysis for Xi’s speeches. Fifth, the framework aggregated evidence that indicates Xi has only minor dominance over foreign policy making in China.
+</details>
+
+<p>
+<p>
+<p>
+<p>
+
+How Ideology Shapes Elite Politics in China 
+<i> with <b> Daniel Mattingly </b> </i>
+<details>
+  <summary><i>Abstract</i></summary>
+Conventional accounts of authoritarian politics argue that elites prioritize political survival, not ideology. In this paper, we challenge that view by demonstrating how ideology shapes elite competition in China. We argue that autocratic leaders use ideology to signal policy preferences and rely on personal networks to identify officials aligned with their ideological vision. We build a new dataset of over 50,000 speeches and 40,000 policy documents from local officials in China and develop a novel method to measure ideological alignment with Xi Jinping. We find that elite conflict revolves around socialism and economic issues. Local officials with personal ties to Xi who publicly align with his socialist ideology are more likely to advance in their careers. They are also more likely to implement socialist policies, with negative consequences for economic growth. These findings suggest that, contrary to dominant theories, ideology plays a central role in structuring elite politics under authoritarianism.
+</details>
+
+
+<p>
+<p>
+<p>
+<p>
+
+  
+Hamilton's Nightmare
+Large Financial Repression, Moral Hazard, and the Rapid Rise of Local Debt in China 
+<i> with <b> Victor Shih </b> Presntations at APSA 24, APSA 25, UCSD-CUHK Chinese Political Economy</i>
+<details>
+  <summary><i>Abstract</i></summary>
+
+Hamilton’s Paradox highlights the moral hazard faced by local governments due to the implicit expectation of central government bailouts.  Where the central fiscal authorities can credibly deny bailouts to the localities, local debt can be constrained.  This paper sets forth a framework where moral hazard intensifies at both the central and local levels when financial repression eliminates pressure and policing from external creditors. In such cases, central authorities, even if they could discipline local authorities, may repeatedly raise debt limits for local governments out of two considerations.  First, the central government prefers to avoid the deleterious policy and political effects of sudden stops in credit provision to local governments. Second, the central government aims to transfer fiscal obligations from its balance sheet to local balance sheets in order to maintain its international reputation as a reliable steward of the economy.  Empirically, we demonstrate the benefits of financial repression to the central government by showing that rising government debt levels do not impact bond spreads, unlike in most developing countries.  We then show that when local debts mature, Chinese local governments, backed by central approval, issue additional debt rather than impose austerity, regardless of outstanding debt levels. Third, by matching a comprehensive geospatial dataset of major floods with China’s provincial boundaries, we show that the central government does not provide substantial fiscal transfers to provinces affected by major floods but permits localities to borrow further for disaster relief and reconstruction. This pattern reveals that strict capital control protects China from external financial scrutiny, enabling local authorities to intensify debt accumulation at the behest of the central government. 
+</details>
+
+<p>
+<p>
+
+
+<p>
+<p>
+
+
+Xi's Paradox: The Perils of Patronage in Political Turnovers - Evidence from China's Provincial Debt Market
+<details>
+  <summary><i>Abstract</i></summary>
+
+Political connections are frequently discussed in political economy literature as influential factors that contribute to positive outcomes for leaders and their constituents. Nevertheless, scholars argue that when local government leaders are too closely tied to the central government, it may result in suboptimal economic behavior. Consequently, tension arises between the advantages of political ties, such as promotion and increased benefits from the central government, and the potential political costs suffered by the leader's constituency for paying back to his patron. This study aims to unravel this paradox by examining evidence from Chinese provincial leadership, utilizing high-frequency bond data to measure the perceived risk shift in the market following provincial party secretary turnovers. The two-way fixed effects model reveals a noteworthy finding of 25.8 basis points decrease in market price associated with the turnover of a leader personally connected to the supreme leader of China, Xi Jinping, as opposed to a leader with no ties to Xi. This suggests that the market interprets a higher risk when a leader is connected, undermining the effectiveness of their governance over the province's economy. In essence, this study provides empirical evidence that a leader's political connections may erode the market's trust, driven by political commitments that diverge from the interests of the local economy.
+</details>
+
+<p>
+<p>
+
+<p>
+<p>
+
+
+Municipal Electoral Incentives and Nationalization of Local Politics
+<details>
+  <summary><i>Abstract</i></summary>
+Nationalization, aligning local elections more closely with national partisan contests, has increasingly diminished the salience of local politics. American Politics' literature mainly describes big historical trends that led to this phenomenon, like a decrease in local news coverage. This paper suggests a tractable causal path and theorizes that parties' electoral incentives in local elections contribute to nationalization. Particularly, I claim that close partisan elections will lead to an increase in nationalization of local politics due to the perceived high marginal returns by the national parties. Utilizing a dataset of 440,000 local news articles covering mayoral elections in more than 760 cities from 1980  to 2024, this study develops text-based measures to empirically quantify the extent of nationalization. The empirical findings, derived through text analysis of mayoral races coverage, support this theory by showing significant national political interference in mayoral elections following a closely contested, partisan mayoral race. This research extends the understanding of political nationalization by revealing its impact in traditionally nonpartisan contexts and the role of electoral incentives in driving nationalization. The implications of these findings suggest a more active role that political parties have in the processes of integration of national politics into local politics, reshaping our understanding of party political engagement at the municipal level. 
+</details>
+
+<p>
+<p>
+<p>
+<p>
+
+
+<br>
+<br>
+
+<h2 style="font-size:26px; ">Peer Reviewed Publications Pre-Phd</h2>
+
+<p>
+<p>
+
 <p>
 <p>
 The Discursive Evolution of Human Rights Law: Empirical Insights from a Computational Analysis of 180,000 UN Recommendations  (with Renana Keydar, Vera Shikhelman, Tomer Broude)
@@ -33,9 +147,9 @@ Building on an independent database of 180,000 UN recommendations and a novel co
 
 <p>
 <p>
-<h3 style="font-size:22px; ">Software Engineering</h2>
 <p>
 <p>
+
 <a href = "https://www.computer.org/csdl/proceedings-article/sera/2023/10197800/1PlnISVXqJW">TIPICAL - Type Inference for Python In Critical Accuracy Level</a> (with Bernd Gruner, Tim Sonnekalb & Clemens-Alexander Brust)
 <p>
 <em>2023 IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA)</em>
@@ -52,93 +166,3 @@ Type inference methods based on deep learning are becoming increasingly popular 
 
 <br>
 <br>
-
-<h2 style="font-size:26px; "> Master's Thesis</h2>
-<p>
-<p>
-<p>
-<p>
-  
-Novelty Probing
-Measurement of Xi Jinping’s policy preferences and political influence by comparing the autocrat’s speeches with official state reports 
-<details>
-  <summary><i>Abstract</i></summary>
-
-The leader’s preferences shape policy outcomes, however, the lack of accurate tools to measure the leader’s priorities, especially among autocrats, leads to overlooking these preferences as part of elite decision-making processes. To solve that, this paper introduces Novelty Probing, a new method for measuring the policy priorities of political elites across topics, and their influence on the same topics. This framework quantifies the novelty and influence of a leader’s ideas by utilizing semantic similarity between sentence embeddings to assess the deviation of their speeches from official propaganda, constructing indices for a leader’s novelty, and influence across policy topics. The Novelty and Influence indices are combined to create the Dominance Index, a metric for a leader’s ability to implement their novelty into policymaking. The paper exemplifies the method in the field of Chinese elite politics, by applying the Novelty Probing framework to Xi Jinping, using a corpus of Xi’s speeches and 179823 China’s State-Councilissued communications. Hence, this study measures Xi’s policy novelty, level of influence, and dominance over China. To represent the usage of the measures, the paper provides five empirical results to study patterns of Chinese elite politics. First, Novelty Probing is used for a mini case study of the effect of Xi on Health policy, by highlighting key speeches, and policy documents affected by these speeches. Second, the method is employed to reveal temporal patterns in Chinese elite politics. Third, Novelty Probing constructs a quantitative case for comparison Between Xi and Li Keqiang, the primer of China, and indices are used to study Xi’s consolidation of power after the 19th Party Congress. Fourth, the author conducts audience analysis for Xi’s speeches. Fifth, the framework aggregated evidence that indicates Xi has only minor dominance over foreign policy making in China.
-</details>
-
-<p>
-<p>
-<p>
-<p>
-
-<br>
-<br>
-<h2 style="font-size:26px; ">Work in Progress</h2>
-<p>
-<p>
-
-
-<h3 style="font-size:22px; ">Computational Social Science</h2>
-
-
-The Patrol-Alarm Topic Model: A Tool for Streaming News Data with Application to China (with Kevin Flannagan, Adam Wu, Yang Yang, Margaret Roberts & Brandon Stewart)
-
-<details>
-  <summary><i>Abstract</i></summary>
-
-Contemporary news sources and online social platforms are dynamic. An abundance of new documents arrives daily in a stream. This ever-changing content forces analysts to make an unpalatable choice when new documents come in: fit the model only on past documents—foregoing using new documents to identify emerging topics—or create entirely new models each time—risking results being incomparable with previously fit models. We tackle this problem in the context of a large, daily-updated corpus of Chinese newspaper articles. An example of our interface is shown below.
-
-Drawing on theories of news media behavior (Boydstun 2013), we develop the “Patrol-Alarm Topic Model.”  The P-A Topic Model captures patrol topics—those that reoccur regularly in the news cycle—and alarm topics which emerge suddenly due to current events.  Unlike standard topic models, the P-A topic model can handle a streaming document-source.  While patrol topics are assumed to stay constant, alarm topics are able to be created at weekly intervals, capturing new and emerging stories.
-The workflow for the P-A topic model has four major steps: initializing patrol topics, classifying new documents, merging the topics, and visualizing the result. It is a human-in-the-loop style model with substantial oversight from domain experts.
-
-In the initializing step, we either start with a list of documents generated by a domain expert or generate a list of our own.  To initialize a list from scratch we use a BERT-based single-membership topic model inspired by BERTopic (Maarten 2022). We  preprocess and embed the documents using a sentence embedding model, followed by dimensionality reduction using the UMAP algorithm.  We then use the single-membership algorithmic clustering model, HDBSCAN, on a substantial initial corpus of documents to generate initial clusters. The clusters are given provisional labels using GPT that are validated by a domain expert.  We then group these topics to find intuitive and relevant patrol topics for our model.  Finally documents are assigned to these topics using a zero-shot GPT labeling strategy (this ensures that even if the topics are changed by the domain expert or augmented, there is a uniform strategy for classifying them). Next is the classifying new documents step. As new document chunks arrive, we connect new observations with existing topics based on proximity to the closest topic exemplar.  Documents that have nearest neighbors that are majority from previous models, and below the median distance to these topic exemplars are directly assigned to previous topic.  Next we merge the newly created topics to existing ones in the model where appropriate. A best-of-three recommendation system is implemented to link the new model topics with older ones providing recommendations that are judged by domain experts. These links enable the continuity of the news cycle topics for each iteration while distinguishing the novel topics for each chunk. This iterative process is repeated as each new batch of data enters into the system. Finally we visualize the model (including the merges) as shown in our prototype above. 
-To illustrate the effectiveness of our approach, we developed a product specially made for China analysts using data from millions of Chinese newspapers written between 2012 and 2024.  Our interactive product allows analysts to explore common “patrol” news cycle topics, observing their prevalence each week. Additionally, it highlights unique “alarm” topics specific to each week, providing a comprehensive understanding of events unfolding in each week of the news cycle in China. Thus, the analyst could study the repetitive patterns of the news as well as focus on the dynamics of the discourse in specific short periods of time.  So far, we have fit the model and developed the interactive product.
-</details>
-
-
-
-<p>
-<p>
-<p>
-<p>
-<br>
-<br>
-<h3 style="font-size:22px; ">Political Economy</h2>
-
-<p>
-<p>
-
-
-Xi's Paradox: The Perils of Patronage in Political Turnovers - Evidence from China's Provincial Debt Market
-<details>
-  <summary><i>Abstract</i></summary>
-
-Political connections are frequently discussed in political economy literature as influential factors that contribute to positive outcomes for leaders and their constituents. Nevertheless, scholars argue that when local government leaders are too closely tied to the central government, it may result in suboptimal economic behavior. Consequently, tension arises between the advantages of political ties, such as promotion and increased benefits from the central government, and the potential political costs suffered by the leader's constituency for paying back to his patron. This study aims to unravel this paradox by examining evidence from Chinese provincial leadership, utilizing high-frequency bond data to measure the perceived risk shift in the market following provincial party secretary turnovers. The two-way fixed effects model reveals a noteworthy finding of 25.8 basis points decrease in market price associated with the turnover of a leader personally connected to the supreme leader of China, Xi Jinping, as opposed to a leader with no ties to Xi. This suggests that the market interprets a higher risk when a leader is connected, undermining the effectiveness of their governance over the province's economy. In essence, this study provides empirical evidence that a leader's political connections may erode the market's trust, driven by political commitments that diverge from the interests of the local economy.
-</details>
-
-<p>
-<p>
-  
-Unveiling China's Local Debt 
-An Exploration of Local Government Debt and LGFV Debt Dynamics (with Victor Shih)
-<details>
-  <summary><i>Abstract</i></summary>
-
-By collecting data on all bonds issued by local governments and local government financing vehicles, this paper documents the relentless rise of local government debt in China, which has increased by over 3.5-fold since 2017. For 12 of China’s provinces, average monthly debt servicing, which combines bond maturity and interest payments, has surpassed 100% of monthly provincial revenue. For another 15 provinces, debt servicing has surpassed 50% of monthly revenue. This debt is increasingly a drag on growth and an accelerant for regional inequality, which will require substantial intervention from the central government to resolve.
-</details>
-
-<p>
-<p>
-
-
-Budgetary Rigidity, Exogenous Shocks and the Rise of Local Government Debt in China (with Victor Shih)
-<details>
-  <summary><i>Abstract</i></summary>
-
-Local government debt in China, by various calculations, has reached 90% of GDP, among some of the highest subnational debt in the world.  It also rose in a short window of time, mainly since 2012.  We hypothesize that fiscal rigidities caused by tax centralization in 1994 and slower revenue growth since 2008 led to local inability to deal with exogenous shocks which boosted expenditures and depleted revenue.  Short of a true catastrophe, the central government has been unwilling to provide  extraordinary budgetary support when natural disasters struck.  Nursing central fiscal strength continued to be a high priority for China’s leaders through two administrations.  We first scrape over 30 thousand local bond issuance announcements to create a dynamic picture of provincial level debt increase.  We further use satellite and official data on flooding to create a monthly data set of flooding across provinces.  We find that flooding in a province led to a rise in issuance in the following monthes of the local government debt, suggesting willful fiscal rigidity to preserve the central government’s fiscal resources. 
-</details>
-
-<p>
-<p>
-

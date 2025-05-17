@@ -23,13 +23,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Visiting Scholar
+          company: Law Economics and Data Science Center (Prof. Elliott Ash), ETH Zurich
+          company_url: ''
+          company_logo: 
+          location: Zurich, Switzerland
+          date_start: '2025-05-01'
+          date_end: ''
+          description: 
         - title: Research Assistant
-          company: China Data Lab, 21st Century China Center, UC San Dan Diego
+          company: China Data Lab (Molly Roberts and Victor Shih), 21st Century China Center, UC San Dan Diego
           company_url: ''
           company_logo: 
           location: San Diego, California, US
           date_start: '2022-12-01'
-          date_end: ''
+          date_end: '2024-07-01'
           description: |2-
               Responsibilities include:
               * Develop Natural Language Processing Algorithm to conduct Topic Modelling on streaming corpora with millions of newspapers articles using machine learning frameworks
@@ -44,7 +52,7 @@ sections:
           date_end: '2022-08-31'
           description: Developed machine learning type inference algorithm by combining machine learning and novelty detection, achieved high assurance F1 scores for automated type inference
         - title: Research Project Manager
-          company: Digital Humanities Lab, The Hebrew Univeristy of Jerusalem
+          company: Digital Humanities Lab (Prof. Renana Keydar), The Hebrew Univeristy of Jerusalem
           company_url:
           company_logo:
           location: Jerusalem, Israel
