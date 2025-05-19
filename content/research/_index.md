@@ -28,7 +28,7 @@ author_profile: true
   <article class="paper">
     <h3 class="paper-title">The End of Fiscal Autonomy:
     Rising Local Debt and Fiscal Constraints in Chinese Provinces </h3> <span class="coauthor">with <strong>Victor Shih</strong></span>
-    <p class="paper-status"><em>Under Review</em></p>
+    <p class="paper-status"><em>Revise and Resubmit</em></p>
     <details class="paper-abstract">
       <summary>Abstract</summary>
       <p>The ideological relaxation and fiscal autonomy of the 1980s initiated over three decades of bold economic reform in China, driving sustained growth. However, an analysis of over 50,000 bond issuance records reveals a sharp increase in local debt, which has progressively constrained policy choices at the local level. Our cross-sectional and dynamic examination demonstrates that China's once-nimble developmentalism has largely transitioned into debt-driven crisis management across most provinces. In 27 provinces, high debt servicing costs for bond obligations relative to local revenue have left authorities heavily dependent on central government transfers and new bond issuance to sustain basic governance. This reliance has significantly eroded the fiscal autonomy enjoyed in previous decades. Furthermore, we provide evidence that these growing fiscal constraints have hindered the capacity of high-debt provinces to pursue policy innovation, even in critical areas such as carbon neutrality. Our findings highlight the profound shift in China's local governance from local innovation to high dependence on the center, with significant implications for future economic and policy trajectories.</p>
