@@ -23,13 +23,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Consultant
+          company: StatsLab, Yale
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2025-08-01'
+          date_end: 
+          description: 
         - title: Visiting Scholar
           company: Law Economics and Data Science Center (Prof. Elliott Ash), ETH Zurich
           company_url: ''
           company_logo: 
           location: Zurich, Switzerland
           date_start: '2025-05-01'
-          date_end: ''
+          date_end: '2025-08-01'
           description: 
         - title: Research Assistant
           company: China Data Lab (Molly Roberts and Victor Shih), 21st Century China Center, UC San Dan Diego
