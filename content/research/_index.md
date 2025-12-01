@@ -52,6 +52,15 @@ author_profile: true
     </details>
   </article>
 
+
+  <article class="paper">
+    <h3 class="paper-title">Foreign influencer operations: How TikTok shapes American perceptions of China</h3> <span class="coauthor">with <strong>Trevor Incerti and Daniel Mattingly</strong></span>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <p>Authoritarian regimes regularly disseminate messaging designed to strengthen support for nondemocratic political systems. Increasingly, pro-state narratives are disseminated by social media influencers rather than traditional media. To gain understanding of the extent of this phenomenon and the persuasive capabilities of these "foreign influencers," we collect comprehensive data on pro-China influencers on TikTok. We show that pro-China influencers have more engagement than state media and estimate that many influencers generate large personal financial returns. We then create a realistic, fully functional version of the TikTok app and conduct a randomized experiment in which over 8500 Americans view a random sample of actual TikTok content over 150,000 times. We show that pro-China foreign influencers are strikingly effective at increasing favorability toward China, while traditional state media causes backlash. The findings highlight the importance of influencers in shaping global public opinion.</p>
+    </details>
+  </article>
+
   <article class="paper">
     <h3 class="paper-title">Corpus Curator: 
     Enhancing Document Selection and Quality for Downstream Applications</h3>
