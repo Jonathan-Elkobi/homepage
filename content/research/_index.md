@@ -36,16 +36,6 @@ author_profile: true
   </article>
 
   <article class="paper">
-    <h3 class="paper-title">Novelty Probing: 
-    Measurement of Xi Jinping’s Policy Preferences and Political Influence </h3>
-    <span class="coauthor"><em>Presentations at APSA 24, MPSA 24, SPSA 24</em></span>
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      <p>The leader’s preferences shape policy outcomes, however, the lack of accurate tools to measure the leader’s priorities, especially among autocrats, leads to overlooking these preferences as part of elite decision-making processes. To solve that, this paper introduces Novelty Probing, a new method for measuring the policy priorities of political elites across topics, and their influence on the same topics. This framework quantifies the novelty and influence of a leader’s ideas by utilizing semantic similarity between sentence embeddings to assess the deviation of their speeches from official propaganda, constructing indices for a leader’s novelty, and influence across policy topics. The Novelty and Influence indices are combined to create the Dominance Index, a metric for a leader’s ability to implement their novelty into policymaking. The paper exemplifies the method in the field of Chinese elite politics, by applying the Novelty Probing framework to Xi Jinping, using a corpus of Xi’s speeches and 179,823 China’s State-Council-issued communications. Hence, this study measures Xi’s policy novelty, level of influence, and dominance over China. To represent the usage of the measures, the paper provides five empirical results to study patterns of Chinese elite politics. First, Novelty Probing is used for a mini case study of the effect of Xi on health policy, by highlighting key speeches, and policy documents affected by these speeches. Second, the method is employed to reveal temporal patterns in Chinese elite politics. Third, Novelty Probing constructs a quantitative case for comparison between Xi and Li Keqiang, the Premier of China, and indices are used to study Xi’s consolidation of power after the 19th Party Congress. Fourth, the author conducts audience analysis for Xi’s speeches. Fifth, the framework aggregated evidence that indicates Xi has only minor dominance over foreign policymaking in China.</p>
-    </details>
-  </article>
-
-  <article class="paper">
     <h3 class="paper-title">How Ideology Shapes Elite Politics in China</h3> <span class="coauthor">with <strong>Daniel Mattingly</strong></span>
     <details class="paper-abstract">
       <summary>Abstract</summary>
