@@ -44,6 +44,9 @@ education:
     - course: PhD in Political Science
       institution: Yale University
       year: 2024-2030 (expected)
+    - course: MSc in Computer Science
+      institution: Yale University
+      year: 2024-2026 (expected)
     - course: Master in Chinese Economics and Political Affairs
       institution:  School of Global Policy and Strategy, UC San Diego
       year: 2022-2024
