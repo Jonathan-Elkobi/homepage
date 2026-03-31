@@ -24,19 +24,15 @@ organizations:
   - name: Department of Political Science, Yale
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in the Department of Political Science at Yale. I received my Master's in Chinese Political Economy from the School of Global Policy and Strategy at UC San Diego, and my BA from the joint program in Business Administration and East Asian Studies at the Hebrew University of Jerusalem. My research focuses on developing computational methods, mainly using Large Language Models (LLMs) and Natural Language Processing (NLP), to measure political constructs in elite politics. My goal is to develop methods for political scientists to better understand political leaders' influence over policy-making, predominantly in local governments. My substantive interest lies in the intersection of elite politics and financial markets, especially in the Chinese context. 
+bio: I am a PhD student in Political Science at Yale and an MSc student in Computer Science at Yale. I study elite politics and elite speech, local governments, and the relationship between politics and financial markets. I combine these interests in projects on municipal bond markets in the United States and China, which are a central part of my research agenda. I also work on side projects on other local-government economic outcomes, including pollution and growth, and on other markets such as prediction markets.
 
 # Interests to show in About widget
 interests:
-  - Large Language Models
-    <br>
-    Text-as-Data 
-    <br>
-    Natural Language Processing
-  - Chinese Political Economy
-  - Elite Politics 
-    <br>
-    and Political Communication
+  - Text-as-Data (LLMs) and NLP
+  - Computational Social Science
+  - Political Economy of Municipal Bond Markets
+  - Ideology and Political Outcomes
+  - Elite Politics and Political Communication
 
 # Education to show in About widget
 education:
@@ -124,4 +120,4 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student in the Department of Political Science at Yale. I received my Master's in Chinese Political Economy from the School of Global Policy and Strategy at UC San Diego, and my BA from the joint program in Business Administration and East Asian Studies at the Hebrew University of Jerusalem. My research focuses on developing computational methods, mainly using Large Language Models (LLMs) and Natural Language Processing (NLP), to measure political constructs in elite politics. My goal is to develop methods for political scientists to better understand political leaders' influence over policy-making, predominantly in local governments. My substantive interest lies in the intersection of elite politics and financial markets, especially in the Chinese context. 
+I am a PhD student in the Department of Political Science at Yale. I received my Master's in Chinese Political Economy from the School of Global Policy and Strategy at UC San Diego, and my BA from the joint program in Business Administration and East Asian Studies at the Hebrew University of Jerusalem. My research focuses on elite politics and elite speech, local governments, and politics and financial markets. Methodologically, I develop computational social science tools, especially text-as-data approaches using Large Language Models (LLMs) and Natural Language Processing (NLP), to measure political elite behavior and political speech. A major part of my research agenda examines municipal bond markets in the United States and China. I also work on side projects on other local-government economic outcomes, including pollution and growth, and on other markets such as prediction markets.

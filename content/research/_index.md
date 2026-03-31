@@ -17,6 +17,25 @@ author_profile: true
   <h2>Working Papers</h2>
 
   <article class="paper">
+    <h3 class="paper-title">The End of Fiscal Autonomy:
+    Rising Local Debt and Fiscal Constraints in Chinese Provinces </h3> <span class="coauthor">with <strong>Victor Shih</strong></span>
+    <p class="paper-status"><em>Revise and Resubmit</em></p>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <p>The ideological relaxation and fiscal autonomy of the 1980s initiated over three decades of bold economic reform in China, driving sustained growth. However, an analysis of over 50,000 bond issuance records reveals a sharp increase in local debt, which has progressively constrained policy choices at the local level. Our cross-sectional and dynamic examination demonstrates that China's once-nimble developmentalism has largely transitioned into debt-driven crisis management across most provinces. In 27 provinces, high debt servicing costs for bond obligations relative to local revenue have left authorities heavily dependent on central government transfers and new bond issuance to sustain basic governance. This reliance has significantly eroded the fiscal autonomy enjoyed in previous decades. Furthermore, we provide evidence that these growing fiscal constraints have hindered the capacity of high-debt provinces to pursue policy innovation, even in critical areas such as carbon neutrality. Our findings highlight the profound shift in China's local governance from local innovation to high dependence on the center, with significant implications for future economic and policy trajectories.</p>
+    </details>
+  </article>
+
+  <article class="paper">
+    <h3 class="paper-title"><a href="https://arxiv.org/abs/2601.14118">Foreign influencer operations: How TikTok shapes American perceptions of China</a></h3> <span class="coauthor">with <strong>Trevor Incerti and Daniel Mattingly</strong></span>
+    <p class="paper-status"><em>Revise and Resubmit at Science Advances</em></p>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <p>Authoritarian regimes regularly disseminate messaging designed to strengthen support for nondemocratic political systems. Increasingly, pro-state narratives are disseminated by social media influencers rather than traditional media. To gain understanding of the extent of this phenomenon and the persuasive capabilities of these "foreign influencers," we collect comprehensive data on pro-China influencers on TikTok. We show that pro-China influencers have more engagement than state media and estimate that many influencers generate large personal financial returns. We then create a realistic, fully functional version of the TikTok app and conduct a randomized experiment in which over 8500 Americans view a random sample of actual TikTok content over 150,000 times. We show that pro-China foreign influencers are strikingly effective at increasing favorability toward China, while traditional state media causes backlash. The findings highlight the importance of influencers in shaping global public opinion.</p>
+    </details>
+  </article>
+
+  <article class="paper">
     <h3 class="paper-title">How Locally Embedded City Leaders Drive Low Carbon Transition in China</h3>
     <p class="paper-status"><em>Under Review</em></p>
     <details class="paper-abstract">
@@ -26,12 +45,50 @@ author_profile: true
   </article>
 
   <article class="paper">
-    <h3 class="paper-title">The End of Fiscal Autonomy:
-    Rising Local Debt and Fiscal Constraints in Chinese Provinces </h3> <span class="coauthor">with <strong>Victor Shih</strong></span>
-    <p class="paper-status"><em>Revise and Resubmit</em></p>
+    <h3 class="paper-title">Corpus Curator:
+    Enhancing Document Selection and Quality for Downstream Applications</h3>
+    <p class="paper-status"><em>Under Review</em></p>
     <details class="paper-abstract">
       <summary>Abstract</summary>
-      <p>The ideological relaxation and fiscal autonomy of the 1980s initiated over three decades of bold economic reform in China, driving sustained growth. However, an analysis of over 50,000 bond issuance records reveals a sharp increase in local debt, which has progressively constrained policy choices at the local level. Our cross-sectional and dynamic examination demonstrates that China's once-nimble developmentalism has largely transitioned into debt-driven crisis management across most provinces. In 27 provinces, high debt servicing costs for bond obligations relative to local revenue have left authorities heavily dependent on central government transfers and new bond issuance to sustain basic governance. This reliance has significantly eroded the fiscal autonomy enjoyed in previous decades. Furthermore, we provide evidence that these growing fiscal constraints have hindered the capacity of high-debt provinces to pursue policy innovation, even in critical areas such as carbon neutrality. Our findings highlight the profound shift in China's local governance from local innovation to high dependence on the center, with significant implications for future economic and policy trajectories.</p>
+      <p>Corpus curation is routine in text-as-data research, yet it is often under-reported and rarely treated as a source of inferential uncertainty. I surveyed 44 AJPS and APSR articles (2019--2024) and found that 48\% do not describe curation steps. This paper examines three common decision domains---document selection, text-quality enhancement, and metadata validation---and evaluates their downstream consequences through classification illustrations and replications of published political science papers. Across applications, curation choices shift baseline descriptives and, in some cases, substantive estimates. However, I find that these effects are context-dependent, often non-additive, and can introduce risks such as sample alteration and context loss. In response, I propose a transparency-first curation audit centered on explicit logging and diagnostics across plausible alternatives. I also introduce an open-source software package, corpuscurator, to implement these workflows and support reproducible reporting. Treating curation decisions as explicit, testable design choices strengthens the credibility and replicability of text-based inference.</p>
+    </details>
+  </article>
+
+</section>
+
+
+<section id="work-in-progress" class="research-section">
+  <h2>Work in Progress</h2>
+
+  <article class="paper">
+    <h3 class="paper-title">More Laws, Less Growth? Evidence from Chinese Local Governments</h3> <span class="coauthor">with <strong>Elliott Ash</strong></span>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <p>While institutions are often assumed to promote development, excessive regulation may hurt economic growth. We examine the effect of local regulatory activity on economic growth using a dataset of city-level legislation and government work reports across 273 Chinese cities from 2008 to 2023. Using a shift-share instrument strategy based on the aggregation of exogenous topic salience, we identify the causal impact of local lawmaking on growth. We find that increased local lawmaking reduces GDP growth: a 0.1 rise in legislative activity leads to a 1.1 to 1.4 percentage point decline in annual GDP growth, about a 20% reduction relative to our sample mean of 6.3%. While cities benefit from adapting national priorities, formalizing these into local laws decreases growth, especially in the industrial sector, where it leads to firm exit. These findings highlight a central institutional challenge in China's regional decentralization framework: the same mechanism that signals responsive local government can generate bureaucratic overreach that constrains economic performance.</p>
+    </details>
+  </article>
+
+  <article class="paper">
+    <h3 class="paper-title"><a href="https://osf.io/preprints/socarxiv/n6zxw_v1">How Prediction Markets Affect Political Speech</a></h3> <span class="coauthor">with <strong>Daniel Karell</strong></span>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <p>How can prediction markets affect politics? While traditional markets have long influenced politics, we argue that some of prediction markets' unique features allow them to affect political speech through distinct forms of manipulation, fulfillment, and legitimation. We then test for the possibility that one or more of these mechanisms are operating by analyzing the relationship between "mention markets," which allow traders to wager on specific words spoken by political elites, and public comments by Donald Trump and the Chair of the Federal Reserve. We find that words introduced into mention markets become significantly more likely to appear in Trump's remarks during the days following market creation, with larger effects for markets when there is higher trading volume. By contrast, we detect no comparable effects in Federal Reserve press conferences. These results suggest that prediction markets are playing a role in shaping public political speech when financial stakes are high and speech is less constrained by accountability. The findings also encourage further research directly examining the mechanisms linking prediction markets to political speech, as well as other political outcomes.</p>
+    </details>
+  </article>
+
+  <article class="paper">
+    <h3 class="paper-title">Ideology as Information: Mayoral Partisanship Effect on Municipal Bond Markets</h3>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <p>Does mayoral partisanship matter for local politics and finance? Theory predicts that mayors, as chief executives with concentrated power, should shape fiscal outcomes through partisan policy choices. Yet empirical tests consistently find null or minimal effects of mayoral ideology on city fiscal conditions, leading scholars to question whether partisanship matters in municipal governance. This paper resolves the puzzle by demonstrating that partisan identity profoundly shapes outcomes not through immediate policy changes, but through the market expectations it generates. Even when policies remain unchanged, partisan signals convey valuable information that diverse economic actors use to update their beliefs about future governance. Using a regression discontinuity design around close U.S. mayoral elections, I find that municipal bond prices increase by 0.4-1.5% when Democrats narrowly defeat Republicans. These market responses occur within one month of the election outcome, before newly elected mayors take office, and direct tests reveal no detectable changes in fiscal policy variables (revenues, expenditures, debt levels). This timing rules out policy-based explanations and instead points to an expectations-based mechanism: bond investors update beliefs about future governance based on partisan signals alone. To understand what expectations drive this response, I examine how job postings, housing prices, and rental markets respond to the same partisan signal. My results are aligned with a pro-development interpretation. All responses occur in the same month, before any policy implementation, confirming that diverse economic actors-firms, landlords, home buyers, and bond investors-interpret partisan identity as conveying credible information about future local conditions. Applying a regression discontinuity design to more than 16,000 municipal credit reports further confirms this expectations channel: Democratic victories generate significant increases in analyst net sentiment scores and in the frequency of formal credit rating upgrades. The findings demonstrate that partisan signals may be even more powerful than actual policy changes in shaping economic outcomes, as expectations coordinate private-sector behavior long before governance shifts materialize.</p>
+    </details>
+  </article>
+
+  <article class="paper">
+    <h3 class="paper-title">The Nationalization of Mayoral Races</h3>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <p>Not all local elections nationalize equally. While scholarship documents the broad nationalization of American politics, we know less about what causes variation in nationalization across local races. I argue that features of the electoral environment, incumbency, partisan competition, and mayoral partisan identity might shape whether municipal contests attract national attention or prompt strategic nationalization by candidates. I assemble a new corpus of 440,000+ newspaper articles covering mayoral races over 40 years across 700 U.S. cities and construct a text-based Nationalization Index that captures mentions of non-local political figures in race coverage. Using stacked difference-in-differences, panel fixed effects models, and regression-discontinuity designs, I show that incumbent reruns lead to an increase of about 11% in nationalization, while partisan-race and partisan-identity effects are generally small and not significant. Mechanism tests using novel data on mayoral campaign donations and mayoral candidate expenditures from ten states indicate incumbents attract more out-of-state donations but do not systematically increase out-of-state consulting, consistent with an increase in national attention rather than strategic candidate adaptation. The paper contributes a new scalable measure of local nationalization and evidence on when and how national politics penetrate municipal elections.</p>
     </details>
   </article>
 
@@ -53,25 +110,9 @@ author_profile: true
   </article>
 
 
-  <article class="paper">
-    <h3 class="paper-title">Foreign influencer operations: How TikTok shapes American perceptions of China</h3> <span class="coauthor">with <strong>Trevor Incerti and Daniel Mattingly</strong></span>
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      <p>Authoritarian regimes regularly disseminate messaging designed to strengthen support for nondemocratic political systems. Increasingly, pro-state narratives are disseminated by social media influencers rather than traditional media. To gain understanding of the extent of this phenomenon and the persuasive capabilities of these "foreign influencers," we collect comprehensive data on pro-China influencers on TikTok. We show that pro-China influencers have more engagement than state media and estimate that many influencers generate large personal financial returns. We then create a realistic, fully functional version of the TikTok app and conduct a randomized experiment in which over 8500 Americans view a random sample of actual TikTok content over 150,000 times. We show that pro-China foreign influencers are strikingly effective at increasing favorability toward China, while traditional state media causes backlash. The findings highlight the importance of influencers in shaping global public opinion.</p>
-    </details>
-  </article>
-
-  <article class="paper">
-    <h3 class="paper-title">Corpus Curator: 
-    Enhancing Document Selection and Quality for Downstream Applications</h3>
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      <p>The increased use of text-as-data methods has greatly influenced empirical research in the social sciences, thanks to advancements in large language models and natural language processing. However, an often neglected aspect is the curation of text corpora, which is essential for ensuring the validity of research findings. This paper addresses the need for a systematic approach to corpus curation in social science research. The paper presents a conceptual framework and practical tools for corpus curation, emphasizing detecting and removing textual and contextual outliers, assessing document quality, and validating metadata consistency. These steps are crucial for maintaining the integrity and reliability of text-based research. The proposed framework includes three stages: defining the corpus scope, ensuring text quality, and ensuring metadata quality. Our approach offers algorithms to support principled decisions at each stage, enhancing transparency and methodological rigor. The utility of these preprocessing steps is validated through simulation studies on political corpora, demonstrating significant improvements in downstream classification accuracy. This work underscores the importance of corpus construction as a critical component of the empirical research process and provides a comprehensive pipeline to support reliable and reproducible text-based analysis in social science.</p>
-    </details>
-  </article>
-
-
 </section>
+
+
 
 <section id="pre-phd-publications" class="research-section">
   <h2>Peer‑Reviewed Publications Pre‑PhD</h2>
