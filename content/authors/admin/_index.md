@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Political Science and MSc Student in Computer Science
+role: PhD Student in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,15 +25,14 @@ organizations:
     url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Political Science and an MSc student in Computer Science at Yale. I study elite politics, local governments, and the relationship between politics and financial markets using computational social science methods.
+bio: I am a PhD student in Political Science. I study elite politics, local governments, and the relationship between politics and financial markets using computational social science methods.
 
 # Interests to show in About widget
 interests:
-  - Political Economy of Municipal Bond Markets
+  - Political Economy 
+  - Local Politics and Central-Local Government Relations
   - Elite Politics and Political Communication
   - Computational Social Science
-  - Text-as-Data, LLMs, and NLP
-  - Ideology and Political Outcomes
 
 # Education to show in About widget
 education:
@@ -127,4 +126,4 @@ highlight_name: true
 
 I am a PhD student in the Department of Political Science at Yale and an MSc student in Computer Science at Yale. I received my Master's in Chinese Economics and Political Affairs from the School of Global Policy and Strategy at UC San Diego, and my BA in Business Administration and China Studies from the Hebrew University of Jerusalem.
 
-My research focuses on elite politics and elite speech, local governments, and politics and financial markets. Methodologically, I develop computational social science tools, especially text-as-data approaches using large language models and natural language processing, to measure political elite behavior and political speech. A central part of my research agenda examines municipal bond markets in the United States and China. I also work on projects about local-government economic outcomes, including pollution and growth, and on other markets such as prediction markets.
+My research focuses on elite politics and elite speech, local governments, and politics and financial markets. Methodologically, I develop computational social science tools, especially text-as-data approaches using large language models and natural language processing, to measure political elite behavior and political speech. A central part of my research agenda examines municipal bond markets in the United States and China. I also work on projects about local-government economic outcomes, including pollution and growth, and how Central-Local Government Relations effect them. I alos have strong interest in how prediction markets affect politics.
