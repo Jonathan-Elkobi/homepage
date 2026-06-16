@@ -1,0 +1,32 @@
+# Theme metadata
+name = "Jonathan"
+
+[light]
+  primary = "#2f6f73"
+  link = "#215f63"
+  link_hover = "#8a4f28"
+  link_decoration = "none"
+
+  menu_primary = "#ffffff"
+  menu_text = "#263238"
+  menu_text_active = "#2f6f73"
+  menu_title = "#111827"
+
+  background = "#ffffff"
+  home_section_odd = "#ffffff"
+  home_section_even = "#f3f7f6"
+
+[dark]
+  primary = "#9ad7cf"
+  link = "#9ad7cf"
+  link_hover = "#f0b787"
+  link_decoration = "none"
+
+  menu_primary = "#161819"
+  menu_text = "#e8ecec"
+  menu_text_active = "#9ad7cf"
+  menu_title = "#ffffff"
+
+  background = "#161819"
+  home_section_odd = "#181d1e"
+  home_section_even = "#111516"

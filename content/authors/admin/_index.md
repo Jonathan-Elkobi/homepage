@@ -17,22 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student 
+role: PhD Student in Political Science and MSc Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Political Science, Yale
+  - name: Yale University
+    url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Political Science at Yale and an MSc student in Computer Science at Yale. I study elite politics and elite speech, local governments, and the relationship between politics and financial markets. I combine these interests in projects on municipal bond markets in the United States and China, which are a central part of my research agenda. I also work on side projects on other local-government economic outcomes, including pollution and growth, and on other markets such as prediction markets.
+bio: I am a PhD student in Political Science and an MSc student in Computer Science at Yale. I study elite politics, local governments, and the relationship between politics and financial markets using computational social science methods.
 
 # Interests to show in About widget
 interests:
-  - Text-as-Data (LLMs) and NLP
-  - Computational Social Science
   - Political Economy of Municipal Bond Markets
-  - Ideology and Political Outcomes
   - Elite Politics and Political Communication
+  - Computational Social Science
+  - Text-as-Data, LLMs, and NLP
+  - Ideology and Political Outcomes
 
 # Education to show in About widget
 education:
@@ -44,9 +45,9 @@ education:
       institution: Yale University
       year: 2024-2026 (expected)
     - course: Master in Chinese Economics and Political Affairs
-      institution:  School of Global Policy and Strategy, UC San Diego
+      institution: School of Global Policy and Strategy, UC San Diego
       year: 2022-2024
-    - course: BA in Business Administarion and East Asian Studies
+    - course: BA in Business Administration and China Studies
       institution: The Hebrew University of Jerusalem
       year: 2019-2022
 
@@ -109,6 +110,10 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jonathan-elkobi/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Jonathan-Elkobi
+    label: GitHub
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,4 +125,6 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student in the Department of Political Science at Yale. I received my Master's in Chinese Political Economy from the School of Global Policy and Strategy at UC San Diego, and my BA from the joint program in Business Administration and East Asian Studies at the Hebrew University of Jerusalem. My research focuses on elite politics and elite speech, local governments, and politics and financial markets. Methodologically, I develop computational social science tools, especially text-as-data approaches using Large Language Models (LLMs) and Natural Language Processing (NLP), to measure political elite behavior and political speech. A major part of my research agenda examines municipal bond markets in the United States and China. I also work on side projects on other local-government economic outcomes, including pollution and growth, and on other markets such as prediction markets.
+I am a PhD student in the Department of Political Science at Yale and an MSc student in Computer Science at Yale. I received my Master's in Chinese Economics and Political Affairs from the School of Global Policy and Strategy at UC San Diego, and my BA in Business Administration and China Studies from the Hebrew University of Jerusalem.
+
+My research focuses on elite politics and elite speech, local governments, and politics and financial markets. Methodologically, I develop computational social science tools, especially text-as-data approaches using large language models and natural language processing, to measure political elite behavior and political speech. A central part of my research agenda examines municipal bond markets in the United States and China. I also work on projects about local-government economic outcomes, including pollution and growth, and on other markets such as prediction markets.

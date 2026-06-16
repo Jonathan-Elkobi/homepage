@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: jonathan
+  theme_night: jonathan
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Yale University'
+    description: 'Jonathan Elkobi is a PhD student in Political Science and MSc student in Computer Science at Yale studying elite politics, local governments, and political economy with computational social science methods.'
+    twitter: 'JElkobi'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jonathan Elkobi. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Jonathan-Elkobi/homepage'
     content_dir: content
     branch: main
   avatar:
