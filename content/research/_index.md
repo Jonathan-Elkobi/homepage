@@ -44,21 +44,29 @@ author_profile: true
     </details>
   </article>
 
-  <article class="paper">
-    <h3 class="paper-title">Corpus Curator:
-    Enhancing Document Selection and Quality for Downstream Applications</h3>
-    <p class="paper-status"><em>Under Review</em></p>
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      <p>Corpus curation is routine in text-as-data research, yet it is often under-reported and rarely treated as a source of inferential uncertainty. I surveyed 44 AJPS and APSR articles (2019--2024) and found that 48\% do not describe curation steps. This paper examines three common decision domains---document selection, text-quality enhancement, and metadata validation---and evaluates their downstream consequences through classification illustrations and replications of published political science papers. Across applications, curation choices shift baseline descriptives and, in some cases, substantive estimates. However, I find that these effects are context-dependent, often non-additive, and can introduce risks such as sample alteration and context loss. In response, I propose a transparency-first curation audit centered on explicit logging and diagnostics across plausible alternatives. I also introduce an open-source software package, corpuscurator, to implement these workflows and support reproducible reporting. Treating curation decisions as explicit, testable design choices strengthens the credibility and replicability of text-based inference.</p>
-    </details>
-  </article>
+<article class="paper">
+  <h3 class="paper-title">Governing by Meeting: How Elite Assemblies Shape Political Attention in China</h3>
+  <p class="paper-status"><em>Under Review</em></p>
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p>Why do personalized dictatorships, characterized by centralization of power, continue to rely on institutionalized public elite meetings? I argue that such assemblies function not as decision-making bodies, but as costly coordination devices that resolve information asymmetries within the ruling coalition. I test this theory using a novel dataset of 45,000 daily activities of Chinese Communist Party top elites. Leveraging the timing and content of 244 Politburo meetings in a difference-in-differences framework, I find that meetings cause an immediate increase in elite attention to the meeting's agenda. This effect is not merely cheap talk, but reflects a substantial reallocation of time toward the topics discussed in the meeting. This coordination comes at a cost, crowding out attention to other policy domains. These findings challenge the view of authoritarian meetings as mere window dressing, demonstrating instead that “governing by meeting” is a technology for maintaining organizational coherence in the Chinese political system.</p>
+  </details>
+</article>
+
 
 </section>
 
 
 <section id="work-in-progress" class="research-section">
   <h2>Work in Progress</h2>
+
+  <article class="paper">
+    <h3 class="paper-title">Ideology as Information: Mayoral Partisanship Effect on Markets</h3>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      Does mayoral partisanship matter for cities? Existing research often answers this question by examining whether Democratic and Republican mayors produce different fiscal and policy choices once in office. I argue that this focus misses an additional way mayoral partisanship can shape urban outcomes: elections operate as public signals that coordinate expectations among residents, firms, landlords, credit analysts, and investors. Even before policy effects are fully realized, partisan victories can change beliefs about who will move to the city, how local markets will adjust, and whether the future tax base will strengthen. Using a regression discontinuity design around close U.S. mayoral elections, I show that Democratic victories raise municipal bond prices by 0.4--1.5 percent, with responses appearing within one month of the election. This pattern is accompanied by changes in the actors and markets that shape future fiscal capacity. Population increases by about 0.5--1 percent, the Democratic share of the local population rises, and migration effects are concentrated among Democratic movers who were not previously living in Democratic cities. Local markets update in parallel: job postings rise by 7--14 percent, rental listings by 20--30 percent, and rents by 4--13 percent. Evidence from more than 16,000 municipal credit reports further supports the expectations channel: Democratic victories increase analyst net sentiment and raise the probability of formal credit upgrades by 8--17 percentage points, especially in domains related to debt service, liquidity, reserves, management, and the economic base. These findings show that mayoral partisanship shapes cities not only, and perhaps not primarily, through direct policy choices, but also by reclassifying the city politically and coordinating expectations about future growth. Elections are therefore not merely instruments of local policy selection; they are public signals that organize urban political economy.
+    </details>
+  </article>
 
   <article class="paper">
     <h3 class="paper-title">More Laws, Less Growth? Evidence from Chinese Local Governments</h3> <span class="coauthor">with <strong>Elliott Ash</strong></span>
@@ -77,12 +85,14 @@ author_profile: true
   </article>
 
   <article class="paper">
-    <h3 class="paper-title">Ideology as Information: Mayoral Partisanship Effect on Municipal Bond Markets</h3>
+    <h3 class="paper-title">Corpus Curator:
+    Enhancing Document Selection and Quality for Downstream Applications</h3>
     <details class="paper-abstract">
       <summary>Abstract</summary>
-      <p>Does mayoral partisanship matter for local politics and finance? Theory predicts that mayors, as chief executives with concentrated power, should shape fiscal outcomes through partisan policy choices. Yet empirical tests consistently find null or minimal effects of mayoral ideology on city fiscal conditions, leading scholars to question whether partisanship matters in municipal governance. This paper resolves the puzzle by demonstrating that partisan identity profoundly shapes outcomes not through immediate policy changes, but through the market expectations it generates. Even when policies remain unchanged, partisan signals convey valuable information that diverse economic actors use to update their beliefs about future governance. Using a regression discontinuity design around close U.S. mayoral elections, I find that municipal bond prices increase by 0.4-1.5% when Democrats narrowly defeat Republicans. These market responses occur within one month of the election outcome, before newly elected mayors take office, and direct tests reveal no detectable changes in fiscal policy variables (revenues, expenditures, debt levels). This timing rules out policy-based explanations and instead points to an expectations-based mechanism: bond investors update beliefs about future governance based on partisan signals alone. To understand what expectations drive this response, I examine how job postings, housing prices, and rental markets respond to the same partisan signal. My results are aligned with a pro-development interpretation. All responses occur in the same month, before any policy implementation, confirming that diverse economic actors-firms, landlords, home buyers, and bond investors-interpret partisan identity as conveying credible information about future local conditions. Applying a regression discontinuity design to more than 16,000 municipal credit reports further confirms this expectations channel: Democratic victories generate significant increases in analyst net sentiment scores and in the frequency of formal credit rating upgrades. The findings demonstrate that partisan signals may be even more powerful than actual policy changes in shaping economic outcomes, as expectations coordinate private-sector behavior long before governance shifts materialize.</p>
+      <p>Corpus curation is routine in text-as-data research, yet it is often under-reported and rarely treated as a source of inferential uncertainty. I surveyed 44 AJPS and APSR articles (2019--2024) and found that 48\% do not describe curation steps. This paper examines three common decision domains---document selection, text-quality enhancement, and metadata validation---and evaluates their downstream consequences through classification illustrations and replications of published political science papers. Across applications, curation choices shift baseline descriptives and, in some cases, substantive estimates. However, I find that these effects are context-dependent, often non-additive, and can introduce risks such as sample alteration and context loss. In response, I propose a transparency-first curation audit centered on explicit logging and diagnostics across plausible alternatives. I also introduce an open-source software package, corpuscurator, to implement these workflows and support reproducible reporting. Treating curation decisions as explicit, testable design choices strengthens the credibility and replicability of text-based inference.</p>
     </details>
   </article>
+
 
   <article class="paper">
     <h3 class="paper-title">The Nationalization of Mayoral Races</h3>
