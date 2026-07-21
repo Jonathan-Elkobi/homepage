@@ -126,4 +126,6 @@ highlight_name: true
 
 I am a PhD student in the Department of Political Science at Yale and an MSc student in Computer Science at Yale. I received my Master's in Chinese Economics and Political Affairs from the School of Global Policy and Strategy at UC San Diego, and my BA in Business Administration and China Studies from the Hebrew University of Jerusalem.
 
+Beginning in 2026, I will be the Peter Salovey and Marta Moret Data Science Fellow at Yale University (2026-2028).
+
 My research focuses on elite politics and elite speech, local governments, and politics and financial markets. Methodologically, I develop computational social science tools, especially text-as-data approaches using large language models and natural language processing, to measure political elite behavior and political speech. A central part of my research agenda examines municipal bond markets in the United States and China. I also work on projects about local-government economic outcomes, including pollution and growth, and how Central-Local Government Relations effect them. I alos have strong interest in how prediction markets affect politics.

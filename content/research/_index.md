@@ -53,6 +53,24 @@ author_profile: true
   </details>
 </article>
 
+  <article class="paper">
+    <h3 class="paper-title"><a href="https://osf.io/preprints/socarxiv/n6zxw_v1">How Prediction Markets Affect Political Speech</a></h3> <span class="coauthor">with <strong>Daniel Karell</strong></span>
+    <p class="paper-status"><em>Under Review</em></p>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <p>How can prediction markets affect politics? While traditional markets have long influenced politics, we argue that some of prediction markets' unique features allow them to affect political speech through distinct forms of manipulation, fulfillment, and legitimation. We then test for the possibility that one or more of these mechanisms are operating by analyzing the relationship between "mention markets," which allow traders to wager on specific words spoken by political elites, and public comments by Donald Trump and the Chair of the Federal Reserve. We find that words introduced into mention markets become significantly more likely to appear in Trump's remarks during the days following market creation, with larger effects for markets when there is higher trading volume. By contrast, we detect no comparable effects in Federal Reserve press conferences. These results suggest that prediction markets are playing a role in shaping public political speech when financial stakes are high and speech is less constrained by accountability. The findings also encourage further research directly examining the mechanisms linking prediction markets to political speech, as well as other political outcomes.</p>
+    </details>
+  </article>
+
+  <article class="paper">
+    <h3 class="paper-title">How Ideology Shapes Elite Politics in China</h3> <span class="coauthor">with <strong>Daniel Mattingly</strong></span>
+    <p class="paper-status"><em>Under Review</em></p>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <p>Conventional accounts of authoritarian politics argue that elites prioritize political survival, not ideology. In this paper, we challenge that view by demonstrating how ideology shapes elite competition in China. We argue that autocratic leaders use ideology to signal policy preferences and rely on personal networks to identify officials aligned with their ideological vision. We build a new dataset of over 50,000 speeches and 40,000 policy documents from local officials in China and develop a novel method to measure ideological alignment with Xi Jinping. We find that elite conflict revolves around socialism and economic issues. Local officials with personal ties to Xi who publicly align with his socialist ideology are more likely to advance in their careers. They are also more likely to implement socialist policies, with negative consequences for economic growth. These findings suggest that, contrary to dominant theories, ideology plays a central role in structuring elite politics under authoritarianism.</p>
+    </details>
+  </article>
+
 
 </section>
 
@@ -77,14 +95,6 @@ author_profile: true
   </article>
 
   <article class="paper">
-    <h3 class="paper-title"><a href="https://osf.io/preprints/socarxiv/n6zxw_v1">How Prediction Markets Affect Political Speech</a></h3> <span class="coauthor">with <strong>Daniel Karell</strong></span>
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      <p>How can prediction markets affect politics? While traditional markets have long influenced politics, we argue that some of prediction markets' unique features allow them to affect political speech through distinct forms of manipulation, fulfillment, and legitimation. We then test for the possibility that one or more of these mechanisms are operating by analyzing the relationship between "mention markets," which allow traders to wager on specific words spoken by political elites, and public comments by Donald Trump and the Chair of the Federal Reserve. We find that words introduced into mention markets become significantly more likely to appear in Trump's remarks during the days following market creation, with larger effects for markets when there is higher trading volume. By contrast, we detect no comparable effects in Federal Reserve press conferences. These results suggest that prediction markets are playing a role in shaping public political speech when financial stakes are high and speech is less constrained by accountability. The findings also encourage further research directly examining the mechanisms linking prediction markets to political speech, as well as other political outcomes.</p>
-    </details>
-  </article>
-
-  <article class="paper">
     <h3 class="paper-title">Corpus Curator:
     Enhancing Document Selection and Quality for Downstream Applications</h3>
     <details class="paper-abstract">
@@ -99,14 +109,6 @@ author_profile: true
     <details class="paper-abstract">
       <summary>Abstract</summary>
       <p>Not all local elections nationalize equally. While scholarship documents the broad nationalization of American politics, we know less about what causes variation in nationalization across local races. I argue that features of the electoral environment, incumbency, partisan competition, and mayoral partisan identity might shape whether municipal contests attract national attention or prompt strategic nationalization by candidates. I assemble a new corpus of 440,000+ newspaper articles covering mayoral races over 40 years across 700 U.S. cities and construct a text-based Nationalization Index that captures mentions of non-local political figures in race coverage. Using stacked difference-in-differences, panel fixed effects models, and regression-discontinuity designs, I show that incumbent reruns lead to an increase of about 11% in nationalization, while partisan-race and partisan-identity effects are generally small and not significant. Mechanism tests using novel data on mayoral campaign donations and mayoral candidate expenditures from ten states indicate incumbents attract more out-of-state donations but do not systematically increase out-of-state consulting, consistent with an increase in national attention rather than strategic candidate adaptation. The paper contributes a new scalable measure of local nationalization and evidence on when and how national politics penetrate municipal elections.</p>
-    </details>
-  </article>
-
-  <article class="paper">
-    <h3 class="paper-title">How Ideology Shapes Elite Politics in China</h3> <span class="coauthor">with <strong>Daniel Mattingly</strong></span>
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      <p>Conventional accounts of authoritarian politics argue that elites prioritize political survival, not ideology. In this paper, we challenge that view by demonstrating how ideology shapes elite competition in China. We argue that autocratic leaders use ideology to signal policy preferences and rely on personal networks to identify officials aligned with their ideological vision. We build a new dataset of over 50,000 speeches and 40,000 policy documents from local officials in China and develop a novel method to measure ideological alignment with Xi Jinping. We find that elite conflict revolves around socialism and economic issues. Local officials with personal ties to Xi who publicly align with his socialist ideology are more likely to advance in their careers. They are also more likely to implement socialist policies, with negative consequences for economic growth. These findings suggest that, contrary to dominant theories, ideology plays a central role in structuring elite politics under authoritarianism.</p>
     </details>
   </article>
 

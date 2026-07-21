@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Greetings
+      title: Greetings,
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     design:
@@ -66,8 +66,8 @@ sections:
             <p class="paper-meta">with Trevor Incerti and Daniel Mattingly</p>
           </article>
           <article class="paper-card">
-            <p class="paper-status">Preprint</p>
-            <h3><a href="https://osf.io/preprints/socarxiv/n6zxw_v2">How Prediction Markets Affect Political Speech</a></h3>
+            <p class="paper-status">Under Review</p>
+            <h3><a href="https://osf.io/preprints/socarxiv/n6zxw_v1">How Prediction Markets Affect Political Speech</a></h3>
             <p class="paper-meta">with Daniel Karell</p>
           </article>
         </div>
