@@ -42,7 +42,7 @@ education:
       year: 2024-2030 (expected)
     - course: MSc in Computer Science
       institution: Yale University
-      year: 2024-2026 (expected)
+      year: 2024-2026
     - course: Master in Chinese Economics and Political Affairs
       institution: School of Global Policy and Strategy, UC San Diego
       year: 2022-2024
@@ -124,7 +124,7 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student in the Department of Political Science at Yale and an MSc student in Computer Science at Yale. I received my Master's in Chinese Economics and Political Affairs from the School of Global Policy and Strategy at UC San Diego, and my BA in Business Administration and China Studies from the Hebrew University of Jerusalem.
+I am a PhD student in the Department of Political Science at Yale and hold an MSc in Computer Science from Yale University. I received my Master's in Chinese Economics and Political Affairs from the School of Global Policy and Strategy at UC San Diego, and my BA in Business Administration and China Studies from the Hebrew University of Jerusalem.
 
 Beginning in 2026, I will be the Peter Salovey and Marta Moret Data Science Fellow at Yale University (2026-2028).
 

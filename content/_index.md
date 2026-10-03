@@ -56,7 +56,7 @@ sections:
       text: |2-
         <div class="paper-grid">
           <article class="paper-card">
-            <p class="paper-status">R&amp;R at China Quarterly</p>
+            <p class="paper-status">Conditionally accepted at China Quarterly</p>
             <h3>The End of Fiscal Autonomy: Rising Local Debt and Fiscal Constraints in Chinese Provinces</h3>
             <p class="paper-meta">with Victor Shih</p>
           </article>
@@ -94,7 +94,7 @@ sections:
           location: New Haven, CT
           date_start: '2025-08-01'
           date_end: 
-          description: 
+          description: Provided statistical consulting to Yale researchers on research design and statistical programming.
         - title: Visiting Researcher
           company: Law, Economics and Data Science Group, ETH Zurich
           company_url: ''

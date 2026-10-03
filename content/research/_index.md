@@ -19,7 +19,7 @@ author_profile: true
   <article class="paper">
     <h3 class="paper-title">The End of Fiscal Autonomy:
     Rising Local Debt and Fiscal Constraints in Chinese Provinces </h3> <span class="coauthor">with <strong>Victor Shih</strong></span>
-    <p class="paper-status"><em>Revise and Resubmit</em></p>
+    <p class="paper-status"><em>Conditionally accepted at <strong>China Quarterly</strong></em></p>
     <details class="paper-abstract">
       <summary>Abstract</summary>
       <p>The ideological relaxation and fiscal autonomy of the 1980s initiated over three decades of bold economic reform in China, driving sustained growth. However, an analysis of over 50,000 bond issuance records reveals a sharp increase in local debt, which has progressively constrained policy choices at the local level. Our cross-sectional and dynamic examination demonstrates that China's once-nimble developmentalism has largely transitioned into debt-driven crisis management across most provinces. In 27 provinces, high debt servicing costs for bond obligations relative to local revenue have left authorities heavily dependent on central government transfers and new bond issuance to sustain basic governance. This reliance has significantly eroded the fiscal autonomy enjoyed in previous decades. Furthermore, we provide evidence that these growing fiscal constraints have hindered the capacity of high-debt provinces to pursue policy innovation, even in critical areas such as carbon neutrality. Our findings highlight the profound shift in China's local governance from local innovation to high dependence on the center, with significant implications for future economic and policy trajectories.</p>
@@ -63,8 +63,8 @@ author_profile: true
   </article>
 
   <article class="paper">
-    <h3 class="paper-title">How Ideology Shapes Elite Politics in China</h3> <span class="coauthor">with <strong>Daniel Mattingly</strong></span>
-    <p class="paper-status"><em>Under Review</em></p>
+    <h3 class="paper-title"><a href="https://campuspress.yale.edu/mattingly/">How Ideology Shapes Elite Politics in China</a></h3> <span class="coauthor">with <strong>Daniel Mattingly</strong></span>
+    <p class="paper-status"><em>Revise and Resubmit at <strong>American Political Science Review (APSR)</strong></em></p>
     <details class="paper-abstract">
       <summary>Abstract</summary>
       <p>Conventional accounts of authoritarian politics argue that elites prioritize political survival, not ideology. In this paper, we challenge that view by demonstrating how ideology shapes elite competition in China. We argue that autocratic leaders use ideology to signal policy preferences and rely on personal networks to identify officials aligned with their ideological vision. We build a new dataset of over 50,000 speeches and 40,000 policy documents from local officials in China and develop a novel method to measure ideological alignment with Xi Jinping. We find that elite conflict revolves around socialism and economic issues. Local officials with personal ties to Xi who publicly align with his socialist ideology are more likely to advance in their careers. They are also more likely to implement socialist policies, with negative consequences for economic growth. These findings suggest that, contrary to dominant theories, ideology plays a central role in structuring elite politics under authoritarianism.</p>
@@ -80,10 +80,6 @@ author_profile: true
 
   <article class="paper">
     <h3 class="paper-title">Ideology as Information: Mayoral Partisanship Effect on Markets</h3>
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      Does mayoral partisanship matter for cities? Existing research often answers this question by examining whether Democratic and Republican mayors produce different fiscal and policy choices once in office. I argue that this focus misses an additional way mayoral partisanship can shape urban outcomes: elections operate as public signals that coordinate expectations among residents, firms, landlords, credit analysts, and investors. Even before policy effects are fully realized, partisan victories can change beliefs about who will move to the city, how local markets will adjust, and whether the future tax base will strengthen. Using a regression discontinuity design around close U.S. mayoral elections, I show that Democratic victories raise municipal bond prices by 0.4--1.5 percent, with responses appearing within one month of the election. This pattern is accompanied by changes in the actors and markets that shape future fiscal capacity. Population increases by about 0.5--1 percent, the Democratic share of the local population rises, and migration effects are concentrated among Democratic movers who were not previously living in Democratic cities. Local markets update in parallel: job postings rise by 7--14 percent, rental listings by 20--30 percent, and rents by 4--13 percent. Evidence from more than 16,000 municipal credit reports further supports the expectations channel: Democratic victories increase analyst net sentiment and raise the probability of formal credit upgrades by 8--17 percentage points, especially in domains related to debt service, liquidity, reserves, management, and the economic base. These findings show that mayoral partisanship shapes cities not only, and perhaps not primarily, through direct policy choices, but also by reclassifying the city politically and coordinating expectations about future growth. Elections are therefore not merely instruments of local policy selection; they are public signals that organize urban political economy.
-    </details>
   </article>
 
   <article class="paper">
@@ -124,6 +120,31 @@ author_profile: true
 
 </section>
 
+
+
+<section id="teaching-guidance" class="research-section">
+  <h2>Teaching and Guidance</h2>
+
+  <article class="paper">
+    <h3 class="paper-title">Teaching Fellow, Applied Quantitative Methods</h3>
+    <p>Teaching Fellow for Shiro's Applied Quantitative Methods course at Yale.</p>
+  </article>
+
+  <article class="paper">
+    <h3 class="paper-title">Statistical Consulting, Yale StatLab</h3>
+    <p>Provided statistical consulting to Yale researchers on research design and statistical programming.</p>
+  </article>
+
+  <article class="paper">
+    <h3 class="paper-title">Applied Causal Inference Guides</h3>
+    <p>Created applied causal inference guides for the <a href="https://yalelibrarystatlab.github.io/statlab/">Yale Library StatLab</a>:</p>
+    <ul>
+      <li><a href="https://yalelibrarystatlab.github.io/statlab/guides/instrumental-variables/">Instrumental Variables</a></li>
+      <li><a href="https://yalelibrarystatlab.github.io/statlab/guides/rdd/">Regression Discontinuity Design</a></li>
+      <li><a href="https://yalelibrarystatlab.github.io/statlab/guides/synthetic-control/">Synthetic Control Methods</a></li>
+    </ul>
+  </article>
+</section>
 
 
 <section id="pre-phd-publications" class="research-section">
