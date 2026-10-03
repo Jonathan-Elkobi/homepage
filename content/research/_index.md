@@ -122,31 +122,6 @@ author_profile: true
 
 
 
-<section id="teaching-guidance" class="research-section">
-  <h2>Teaching and Guidance</h2>
-
-  <article class="paper">
-    <h3 class="paper-title">Teaching Fellow, Applied Quantitative Methods</h3>
-    <p>Teaching Fellow for Shiro's Applied Quantitative Methods course at Yale.</p>
-  </article>
-
-  <article class="paper">
-    <h3 class="paper-title">Statistical Consulting, Yale StatLab</h3>
-    <p>Provided statistical consulting to Yale researchers on research design and statistical programming.</p>
-  </article>
-
-  <article class="paper">
-    <h3 class="paper-title">Applied Causal Inference Guides</h3>
-    <p>Created applied causal inference guides for the <a href="https://yalelibrarystatlab.github.io/statlab/">Yale Library StatLab</a>:</p>
-    <ul>
-      <li><a href="https://yalelibrarystatlab.github.io/statlab/guides/instrumental-variables/">Instrumental Variables</a></li>
-      <li><a href="https://yalelibrarystatlab.github.io/statlab/guides/rdd/">Regression Discontinuity Design</a></li>
-      <li><a href="https://yalelibrarystatlab.github.io/statlab/guides/synthetic-control/">Synthetic Control Methods</a></li>
-    </ul>
-  </article>
-</section>
-
-
 <section id="pre-phd-publications" class="research-section">
   <h2>Peer‑Reviewed Publications Pre‑PhD</h2>
 

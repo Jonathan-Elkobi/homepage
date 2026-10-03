@@ -10,8 +10,8 @@ main:
   - name: Research
     url: 'research'
     weight: 20
-  - name: Experience
-    url: '#experience'
+  - name: Teaching
+    url: 'teaching'
     weight: 30
   - name: CV
     url: uploads/resume.pdf
