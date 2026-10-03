@@ -41,8 +41,8 @@ sections:
         </div>
 
         <div class="home-actions">
-          <a class="home-button primary" href="/research/">View Research</a>
-          <a class="home-button secondary" href="/uploads/resume.pdf">Download CV</a>
+          <a class="home-button primary" href="research/">View Research</a>
+          <a class="home-button secondary" href="uploads/resume.pdf">Download CV</a>
         </div>
     design:
       columns: '1'
