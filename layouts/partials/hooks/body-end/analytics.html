@@ -1,0 +1,6 @@
+{{- with site.Params.marketing.analytics.google_analytics -}}
+  {{- if hugo.IsProduction -}}
+    {{- $analytics := resources.Get "js/site-analytics.js" | minify | fingerprint "sha256" -}}
+<script src="{{ $analytics.RelPermalink }}" integrity="{{ $analytics.Data.Integrity }}" data-measurement-id="{{ . }}" defer></script>
+  {{- end -}}
+{{- end -}}

@@ -1,0 +1,12 @@
+{{- $ga := site.Params.marketing.analytics.google_analytics | default "" -}}
+{{- if and hugo.IsProduction $ga -}}
+{{/* Replace the theme's legacy outbound handler with the standard GA4 tag.
+     Enhanced measurement handles generic outbound clicks and file downloads. */}}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $ga }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { window.dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '{{ $ga }}');
+</script>
+{{- end -}}

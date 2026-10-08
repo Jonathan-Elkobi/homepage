@@ -5,14 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JXH49J0PEN"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-JXH49J0PEN');
-</script>
-
 <section id="working-papers" class="research-section">
   <h2>Working Papers</h2>
 

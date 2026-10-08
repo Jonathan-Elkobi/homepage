@@ -1,0 +1,5 @@
+{{ define "main" }}
+  {{ partial "analytics/google_analytics" . }}
+  {{ partial "slides" (union (slice .Page) .Pages) }}
+  {{ partial "hooks/body-end/analytics" . }}
+{{ end }}
